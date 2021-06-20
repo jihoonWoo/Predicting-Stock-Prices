@@ -4,13 +4,11 @@ Build a model to predict Stock Prices with LSTM. This program has been developed
 
 # Notes
 
-The requirements.txt file should list all Python libraries that your programs depend on, and they will be installed using:
+The requirements.txt file should list all Python libraries that your notebook depend on, and they will be installed using:
 
 *pip install -r requirements.txt*
 
-Excute Program:
 
-*python main.py*
 
 
 
